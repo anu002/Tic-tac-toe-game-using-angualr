@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-toc-toe-b4fc4": {
+      "hosting": {
+        "tic-toc-toe": [
+          "tic-toc-toe-b4fc4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-toc-toe-b4fc4"
+  }
+}
